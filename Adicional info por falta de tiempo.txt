@@ -1,0 +1,6 @@
+
+		// NO ME DA TIEMPO. AQUI SERIA OBTENER EL NUMERO DE ELEMENTOS DE POST QUE HAY E IR AL ULTIMO - 1 PROBABLEMENTE.	
+		// Y la captura de pantalla sería con TakesScreenShot y guardarla en una carpeta destino.
+		// Siento entregar el resto así por falta de tiempo.
+		
+		Un saludo.
